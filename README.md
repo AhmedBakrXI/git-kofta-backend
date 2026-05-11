@@ -58,6 +58,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#try-it-now">Try It NOW</a></li>
   </ol>
 </details>
 
@@ -119,6 +120,8 @@ This section should list any major frameworks/libraries used to bootstrap this p
 
 
 
+## Try It NOW!
+https://git-kofta.vercel.app/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
